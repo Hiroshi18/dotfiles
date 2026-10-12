@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lucas.hh@hotmail.com
+	name = Hiroshi Horinouchi
